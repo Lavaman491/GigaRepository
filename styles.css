@@ -1,0 +1,54 @@
+body {
+	background-image: url("images/islands/spaceIsland3.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+#pagewidth {
+	margin-left: auto;
+	margin-right: auto;
+	height: 1200px;
+}
+
+header {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	border-radius: 20px;
+	background-color: gray;
+}
+
+header h1 {
+	margin: 0px;
+	padding: 10px;
+	font-size: 3.5em;
+	color: #ffffff;
+}
+
+hero {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+
+}
+
+footer {
+	background-color: gray;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2px;
+	border-radius: 20px;
+}
+
+footer p {
+	margin-top: 0px;
+	padding-left: 15px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
