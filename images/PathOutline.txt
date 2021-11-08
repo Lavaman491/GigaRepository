@@ -1,0 +1,10 @@
+*Have text show up letter by letter
+
+Celestial GigaChad
+	CGC:  Thank you young one, now I can rule the world in peace. 
+	*A rumble shakes the world (black screen, white text)
+	BBEG: Did you really think you could simply defeat me?
+	BBEG: I am the ruler of this world! And it shall bow down before ME!
+	CGC:  No! Young one, take this. It shall protect yo---
+	*item appears
+	*SuperNova

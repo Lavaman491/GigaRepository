@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+}
+
+#pagewidth {
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	background-color: #333333;
+}
+main {	
+	width: auto;
+	position: relative;
+	margin-top: 5%;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: gray;
+	display: inline-block;
+}
+
+main img {
+	border: 8px solid silver;
+	border-radius: 10px;
+	display: inline-block;
+	margin-left: 2%;
+	margin-right: auto;
+	width: 100%;
+	background-color: blue;
+}
+
+aside {
+	background-color: maroon;
+}
+
+aside p {
+	background-color: yellow;
+	color: white;
+}

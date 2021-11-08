@@ -1,0 +1,36 @@
+body {
+	background-color: black;
+}
+
+#pagewidth {
+	margin-top: 5.5%;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+}
+
+main {
+	width: 35%;
+	margin-left: 2%;
+	float: left;
+}
+
+main img {
+	width: 97.5%;
+	margin-left: 0;
+	border: 8px solid silver;
+	border-radius: 10px;
+}
+
+aside {
+	float: left;
+	width: 50%;
+	padding: 12% 0;
+	margin-left: 5%;
+}
+
+aside p {
+	margin: 0;
+	font-size: 2em;
+	color: white;
+}
